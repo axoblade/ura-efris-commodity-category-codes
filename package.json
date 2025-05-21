@@ -1,0 +1,33 @@
+{
+	"name": "ura-efris-commodity-category-codes",
+	"version": "1.0.0",
+	"description": "The URA Commodity Categories Codes helper",
+	"main": "index.js",
+	"scripts": {
+		"test": "mocha"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/axoblade/ura-efris-commodity-category-codes.git"
+	},
+	"keywords": [
+		"EFRIS",
+		"URA",
+		"Commodity",
+		"Category",
+		"Codes"
+	],
+	"author": "Axoblade",
+	"license": "Apache-2.0",
+	"bugs": {
+		"url": "https://github.com/axoblade/ura-efris-commodity-category-codes/issues"
+	},
+	"homepage": "https://github.com/axoblade/ura-efris-commodity-category-codes#readme",
+	"dependencies": {
+		"fuse.js": "^7.1.0"
+	},
+	"devDependencies": {
+		"chai": "^5.2.0",
+		"mocha": "^11.4.0"
+	}
+}
