@@ -17,6 +17,9 @@
 		"Category",
 		"Codes"
 	],
+	"engines": {
+		"node": ">=20.0.0"
+	},
 	"author": "Axoblade",
 	"license": "Apache-2.0",
 	"bugs": {
