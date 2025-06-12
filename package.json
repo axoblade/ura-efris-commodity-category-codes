@@ -1,7 +1,7 @@
 {
 	"name": "ura-efris-commodity-category-codes",
 	"version": "1.0.0",
-	"description": "The URA Commodity Categories Codes helper",
+	"description": "The search helper for searching codes for the United Nations Standard Products and Services Code (UNSPSC) used in the Uganda Revenue Authority (URA) Electronic Fiscal Receipting and Invoicing System (EFRIS).",
 	"main": "index.js",
 	"scripts": {
 		"test": "mocha"
@@ -12,10 +12,9 @@
 	},
 	"keywords": [
 		"EFRIS",
+		"UNSPSC",
 		"URA",
-		"Commodity",
-		"Category",
-		"Codes"
+		"Commodity Cateogry Codes"
 	],
 	"engines": {
 		"node": ">=20.0.0"

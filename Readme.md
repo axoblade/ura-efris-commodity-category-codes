@@ -1,6 +1,6 @@
 # 📦 URA EFRIS Commodity Category Codes Dictionary Search
 
-A fast and efficient Node.js utility for fuzzy searching and matching the URA EFRIS commodity category codes and names.
+A fast and efficient Node.js utility for fuzzy searching and matching the UNSPSC codes also used in the URA EFRIS products configurations.
 
 ---
 
